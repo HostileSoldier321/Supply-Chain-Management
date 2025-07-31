@@ -42,6 +42,10 @@ This project presents a comprehensive supply chain management solution developed
 * **Visualization:** Create visualizations that highlight key findings in the data
 * **Report taking:** Interpret the results of analysis and derive actionable insights that can inform decision-making in the healthcare domain
 
+## Dashboard Overview
+
+![Image Alt](image_url)
+
 ## Report
 1. Skincare emerges as the most lucrative product category, contributing significantly to the total revenue of ₹57,77,705, with skincare products alone accounting for ₹24,16,280.
 2. The total number of products sold amounted to 46,099 units.
